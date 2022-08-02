@@ -12,6 +12,7 @@ header, footer {
 		border-radius: 2em;
 		width: 95%;
 		height: 10%;
+		padding: 6px;
 		}
 		.transparent {
 	filter:alpha(opacity=50);
